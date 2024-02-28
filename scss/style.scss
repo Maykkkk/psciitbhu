@@ -1,11 +1,13 @@
 @import 'bootstrap/bootstrap';
 @import 'bootstrap/variables';
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Poppins:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;1,100;1,300;1,400;1,600;1,700&display=swap');
 
-$font-primary: 'Roboto',Arial, sans-serif;
+$font-primary: 'Libre Baskerville', serif,'Roboto',Arial, sans-serif;
 
 $white: #fff;
 $black: #000000;
 $darken: #33313b;
+$body-bg: #f4f2ee;
 
 $primary: #8C477E;
 $secondary: #efce56;
@@ -34,6 +36,7 @@ body {
 	line-height: 1.8;
 	font-weight: 400;
 	color: lighten($black,50%);
+	background-color: $body-bg;
 	&.menu-show {
 		overflow: hidden;
 		position: fixed;
@@ -55,6 +58,11 @@ h1, h2, h3, h4, h5,
 	line-height: 1.5;
 	color: $darken;
 	font-weight: 400;
+}
+
+.justify{
+	text-align: justify !important;
+	text-justify: inter-word !important;
 }
 
 .wrap{
@@ -588,6 +596,9 @@ h1, h2, h3, h4, h5,
 	}
 }
 
+// home page
+
+
 
 //SERVICES
 .services{
@@ -708,6 +719,7 @@ h1, h2, h3, h4, h5,
 	}
 }
 
+// RESOURCES
 
 //STAFF
 .staff{

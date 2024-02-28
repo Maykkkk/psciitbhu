@@ -1,0 +1,38 @@
+.justify{
+    text-align: justify !important;
+	text-justify: inter-word !important;
+}
+
+/* .resource-card{
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 15px;
+    border: 3px solid #808080;
+    padding: 5% 10% 0% 10%;
+    border-radius: 12px;
+} */
+
+.nav-link{
+    /* > nav{ */
+        /* font-size: 1rem !important; */
+        font-weight: 500 !important;
+    /* } */
+}
+
+.sub-heading{
+    text-align: justify;
+	text-justify: inter-word;
+    background-color: #f4f2ee !important; 
+    padding: 5%;"
+}
+
+.banner-heading{
+    font-size: 3rem !important;
+}
+
+.banner-subheading{
+    font-size: 1.3rem !important;
+    font-weight: 500;
+}
+
+.paras{
+
+}
