@@ -1,0 +1,324 @@
+<!-- <details closed="">
+							<summary><b>Step 1.1</b>: Things to Know in C++/Java/Python or any language<div
+									class="outer-box-tracker"><span class="text">(<span class="solved">9</span>/<span
+											class="total">9</span>)</span>
+									<div class="box-of-tracker">
+										<div class="inner-filling"
+											style="width: 100%; background-color: green; height: 100%; transition: width 250ms ease-out 0s;">
+										</div>
+									</div>
+								</div>
+							</summary>
+							<table>
+								<thead>
+									<tr>
+										<th>Action</th>
+										<th>Problem [Articles, Codes]</th>
+										<th>PL-1</th>
+										<th>Solution</th>
+										<th>PL-2</th>
+										<th>Notes</th>
+										<th>Company</th>
+									</tr>
+								</thead>
+								<tbody>
+									<tr class="complete">
+										<td title=""><select id="srinpttpt" class="complete" prev-value="1">
+												<option value="0">Pending</option>
+												<option value="1">Done</option>
+												<option value="2">Revisit</option>
+											</select></td>
+										<td title=""><a target="_blank" rel="noopener"
+												href="https://takeuforward.org/c/c-basic-input-output/">User Input /
+												Output</a></td>
+										<td title="CS link"><a target="_blank" rel="noopener"
+												href="https://www.codingninjas.com/studio/problems/find-character-case_58513?utm_source=striver&amp;utm_medium=website&amp;utm_campaign=a_zcoursetuf"><img
+													class="aligncenter wp-image-1830 lazy-loaded"
+													src="https://takeuforward.org/wp-content/uploads/2023/04/Group-11-5.png"
+													alt="" width="24" height="24" decoding="async" loading="lazy"
+													data-lazy-type="image"
+													data-src="https://takeuforward.org/wp-content/uploads/2023/04/Group-11-5.png"></a>
+										</td>
+										<td title="YouTube Solution"><button><img
+													src="https://takeuforward.org/wp-content/uploads/2022/08/youtube-icon-42001-300x300.png.webp"
+													alt="" width="24" height="24" decoding="async" loading="lazy"
+													data-lazy-type="image"
+													data-src="https://takeuforward.org/wp-content/uploads/2022/08/youtube-icon-42001-300x300.png.webp"></button>
+										</td>
+										<td title="Leetcode link"></td>
+										<td title="Add Note"><button><img
+													src="https://takeuforward.org/wp-content/uploads/2023/05/empty-note.png"
+													alt="" width="24" height="24" decoding="async" loading="lazy"
+													data-lazy-type="image"
+													data-src="https://takeuforward.org/wp-content/uploads/2023/05/empty-note.png"></button>
+										</td>
+										<td title="Company Tags"></td>
+									</tr>
+									<tr class="complete">
+										<td title=""><select id="dttyps" class="complete" prev-value="1">
+												<option value="0">Pending</option>
+												<option value="1">Done</option>
+												<option value="2">Revisit</option>
+											</select></td>
+										<td title="">Data Types</td>
+										<td title="CS link"><a target="_blank" rel="noopener"
+												href="https://www.codingninjas.com/studio/problems/data-type_8357232?utm_source=striver&amp;utm_medium=website&amp;utm_campaign=a_zcoursetuf"><img
+													class="aligncenter wp-image-1830 lazy-loaded"
+													src="https://takeuforward.org/wp-content/uploads/2023/04/Group-11-5.png"
+													alt="" width="24" height="24" decoding="async" loading="lazy"
+													data-lazy-type="image"
+													data-src="https://takeuforward.org/wp-content/uploads/2023/04/Group-11-5.png"></a>
+										</td>
+										<td title="YouTube Solution"><button><img
+													src="https://takeuforward.org/wp-content/uploads/2022/08/youtube-icon-42001-300x300.png.webp"
+													alt="" width="24" height="24" decoding="async" loading="lazy"
+													data-lazy-type="image"
+													data-src="https://takeuforward.org/wp-content/uploads/2022/08/youtube-icon-42001-300x300.png.webp"></button>
+										</td>
+										<td title="Leetcode link"></td>
+										<td title="Add Note"><button><img
+													src="https://takeuforward.org/wp-content/uploads/2023/05/empty-note.png"
+													alt="" width="24" height="24" decoding="async" loading="lazy"
+													data-lazy-type="image"
+													data-src="https://takeuforward.org/wp-content/uploads/2023/05/empty-note.png"></button>
+										</td>
+										<td title="Company Tags"></td>
+									</tr>
+									<tr class="complete">
+										<td title=""><select id="iflssttmnts" class="complete" prev-value="1">
+												<option value="0">Pending</option>
+												<option value="1">Done</option>
+												<option value="2">Revisit</option>
+											</select></td>
+										<td title=""><a target="_blank" rel="noopener"
+												href="https://takeuforward.org/if-else/if-else-statements/">If Else
+												statements</a></td>
+										<td title="CS link"><a target="_blank" rel="noopener"
+												href="https://www.codingninjas.com/studio/problems/if-else-decision-making_8357235?utm_source=striver&amp;utm_medium=website&amp;utm_campaign=a_zcoursetuf"><img
+													class="aligncenter wp-image-1830 lazy-loaded"
+													src="https://takeuforward.org/wp-content/uploads/2023/04/Group-11-5.png"
+													alt="" width="24" height="24" decoding="async" loading="lazy"
+													data-lazy-type="image"
+													data-src="https://takeuforward.org/wp-content/uploads/2023/04/Group-11-5.png"></a>
+										</td>
+										<td title="YouTube Solution"><button><img
+													src="https://takeuforward.org/wp-content/uploads/2022/08/youtube-icon-42001-300x300.png.webp"
+													alt="" width="24" height="24" decoding="async" loading="lazy"
+													data-lazy-type="image"
+													data-src="https://takeuforward.org/wp-content/uploads/2022/08/youtube-icon-42001-300x300.png.webp"></button>
+										</td>
+										<td title="Leetcode link"></td>
+										<td title="Add Note"><button><img
+													src="https://takeuforward.org/wp-content/uploads/2023/05/empty-note.png"
+													alt="" width="24" height="24" decoding="async" loading="lazy"
+													data-lazy-type="image"
+													data-src="https://takeuforward.org/wp-content/uploads/2023/05/empty-note.png"></button>
+										</td>
+										<td title="Company Tags"></td>
+									</tr>
+									<tr class="complete">
+										<td title=""><select id="switchsttmnt" class="complete" prev-value="1">
+												<option value="0">Pending</option>
+												<option value="1">Done</option>
+												<option value="2">Revisit</option>
+											</select></td>
+										<td title=""><a target="_blank" rel="noopener"
+												href="https://takeuforward.org/switch-case/switch-case-statements/">Switch
+												Statement</a></td>
+										<td title="CS link"><a target="_blank" rel="noopener"
+												href="https://www.codingninjas.com/studio/problems/switch-case-statement_8357244?utm_source=striver&amp;utm_medium=website&amp;utm_campaign=a_zcoursetuf"><img
+													class="aligncenter wp-image-1830 lazy-loaded"
+													src="https://takeuforward.org/wp-content/uploads/2023/04/Group-11-5.png"
+													alt="" width="24" height="24" decoding="async" loading="lazy"
+													data-lazy-type="image"
+													data-src="https://takeuforward.org/wp-content/uploads/2023/04/Group-11-5.png"></a>
+										</td>
+										<td title="YouTube Solution"><button><img
+													src="https://takeuforward.org/wp-content/uploads/2022/08/youtube-icon-42001-300x300.png.webp"
+													alt="" width="24" height="24" decoding="async" loading="lazy"
+													data-lazy-type="image"
+													data-src="https://takeuforward.org/wp-content/uploads/2022/08/youtube-icon-42001-300x300.png.webp"></button>
+										</td>
+										<td title="Leetcode link"></td>
+										<td title="Add Note"><button><img
+													src="https://takeuforward.org/wp-content/uploads/2023/05/empty-note.png"
+													alt="" width="24" height="24" decoding="async" loading="lazy"
+													data-lazy-type="image"
+													data-src="https://takeuforward.org/wp-content/uploads/2023/05/empty-note.png"></button>
+										</td>
+										<td title="Company Tags"></td>
+									</tr>
+									<tr class="complete">
+										<td title=""><select id="whtrrrysstrings" class="complete" prev-value="1">
+												<option value="0">Pending</option>
+												<option value="1">Done</option>
+												<option value="2">Revisit</option>
+											</select></td>
+										<td title="">What are arrays, strings?</td>
+										<td title="CS link"></td>
+										<td title="YouTube Solution"><button><img
+													src="https://takeuforward.org/wp-content/uploads/2022/08/youtube-icon-42001-300x300.png.webp"
+													alt="" width="24" height="24" decoding="async" loading="lazy"
+													data-lazy-type="image"
+													data-src="https://takeuforward.org/wp-content/uploads/2022/08/youtube-icon-42001-300x300.png.webp"></button>
+										</td>
+										<td title="Leetcode link"></td>
+										<td title="Add Note"><button><img
+													src="https://takeuforward.org/wp-content/uploads/2023/05/empty-note.png"
+													alt="" width="24" height="24" decoding="async" loading="lazy"
+													data-lazy-type="image"
+													data-src="https://takeuforward.org/wp-content/uploads/2023/05/empty-note.png"></button>
+										</td>
+										<td title="Company Tags"></td>
+									</tr>
+									<tr class="complete">
+										<td title=""><select id="frlps" class="complete" prev-value="1">
+												<option value="0">Pending</option>
+												<option value="1">Done</option>
+												<option value="2">Revisit</option>
+											</select></td>
+										<td title=""><a target="_blank" rel="noopener"
+												href="https://takeuforward.org/for-loop/understanding-for-loop/">For
+												loops</a></td>
+										<td title="CS link"><a target="_blank" rel="noopener"
+												href="https://www.codingninjas.com/studio/problems/nth-fibonacci-number_74156?utm_source=striver&amp;utm_medium=website&amp;utm_campaign=a_zcoursetuf"><img
+													class="aligncenter wp-image-1830 lazy-loaded"
+													src="https://takeuforward.org/wp-content/uploads/2023/04/Group-11-5.png"
+													alt="" width="24" height="24" decoding="async" loading="lazy"
+													data-lazy-type="image"
+													data-src="https://takeuforward.org/wp-content/uploads/2023/04/Group-11-5.png"></a>
+										</td>
+										<td title="YouTube Solution"><button><img
+													src="https://takeuforward.org/wp-content/uploads/2022/08/youtube-icon-42001-300x300.png.webp"
+													alt="" width="24" height="24" decoding="async" loading="lazy"
+													data-lazy-type="image"
+													data-src="https://takeuforward.org/wp-content/uploads/2022/08/youtube-icon-42001-300x300.png.webp"></button>
+										</td>
+										<td title="Leetcode link"></td>
+										<td title="Add Note"><button><img
+													src="https://takeuforward.org/wp-content/uploads/2023/05/empty-note.png"
+													alt="" width="24" height="24" decoding="async" loading="lazy"
+													data-lazy-type="image"
+													data-src="https://takeuforward.org/wp-content/uploads/2023/05/empty-note.png"></button>
+										</td>
+										<td title="Company Tags"></td>
+									</tr>
+									<tr class="complete">
+										<td title=""><select id="whillps" class="complete" prev-value="1">
+												<option value="0">Pending</option>
+												<option value="1">Done</option>
+												<option value="2">Revisit</option>
+											</select></td>
+										<td title=""><a target="_blank" rel="noopener"
+												href="https://takeuforward.org/while-loop/while-loops-in-programming/">While
+												loops</a></td>
+										<td title="CS link"><a target="_blank" rel="noopener"
+												href="https://www.codingninjas.com/studio/problems/sum-of-even-odd_624650?utm_source=striver&amp;utm_medium=website&amp;utm_campaign=a_zcoursetuf"><img
+													class="aligncenter wp-image-1830 lazy-loaded"
+													src="https://takeuforward.org/wp-content/uploads/2023/04/Group-11-5.png"
+													alt="" width="24" height="24" decoding="async" loading="lazy"
+													data-lazy-type="image"
+													data-src="https://takeuforward.org/wp-content/uploads/2023/04/Group-11-5.png"></a>
+										</td>
+										<td title="YouTube Solution"><button><img
+													src="https://takeuforward.org/wp-content/uploads/2022/08/youtube-icon-42001-300x300.png.webp"
+													alt="" width="24" height="24" decoding="async" loading="lazy"
+													data-lazy-type="image"
+													data-src="https://takeuforward.org/wp-content/uploads/2022/08/youtube-icon-42001-300x300.png.webp"></button>
+										</td>
+										<td title="Leetcode link"></td>
+										<td title="Add Note"><button><img
+													src="https://takeuforward.org/wp-content/uploads/2023/05/empty-note.png"
+													alt="" width="24" height="24" decoding="async" loading="lazy"
+													data-lazy-type="image"
+													data-src="https://takeuforward.org/wp-content/uploads/2023/05/empty-note.png"></button>
+										</td>
+										<td title="Company Tags"></td>
+									</tr>
+									<tr class="complete">
+										<td title=""><select id="fnctinspssbyrfrncndvl" class="complete" prev-value="1">
+												<option value="0">Pending</option>
+												<option value="1">Done</option>
+												<option value="2">Revisit</option>
+											</select></td>
+										<td title="Functions (Pass by Reference and Value)">Functions (Pass by Reference
+											and Va…</td>
+										<td title="CS link"><a target="_blank" rel="noopener"
+												href="https://www.codingninjas.com/codestudio/problems/fa-1-ece_4606261?utm_source=striver&amp;utm_medium=website&amp;utm_campaign=a_zcoursetuf"><img
+													class="aligncenter wp-image-1830 lazy-loaded"
+													src="https://takeuforward.org/wp-content/uploads/2023/04/Group-11-5.png"
+													alt="" width="24" height="24" decoding="async" loading="lazy"
+													data-lazy-type="image"
+													data-src="https://takeuforward.org/wp-content/uploads/2023/04/Group-11-5.png"></a>
+										</td>
+										<td title="YouTube Solution"><button><img
+													src="https://takeuforward.org/wp-content/uploads/2022/08/youtube-icon-42001-300x300.png.webp"
+													alt="" width="24" height="24" decoding="async" loading="lazy"
+													data-lazy-type="image"
+													data-src="https://takeuforward.org/wp-content/uploads/2022/08/youtube-icon-42001-300x300.png.webp"></button>
+										</td>
+										<td title="Leetcode link"></td>
+										<td title="Add Note"><button><img
+													src="https://takeuforward.org/wp-content/uploads/2023/05/empty-note.png"
+													alt="" width="24" height="24" decoding="async" loading="lazy"
+													data-lazy-type="image"
+													data-src="https://takeuforward.org/wp-content/uploads/2023/05/empty-note.png"></button>
+										</td>
+										<td title="Company Tags"></td>
+									</tr>
+									<tr class="complete">
+										<td title=""><select id="timcmplxitylrnbsicsndthnnlysinnxtstps" class="complete"
+												prev-value="1">
+												<option value="0">Pending</option>
+												<option value="1">Done</option>
+												<option value="2">Revisit</option>
+											</select></td>
+										<td title="Time Complexity [Learn Basics, and then analyse in next Steps]"><a
+												target="_blank" rel="noopener"
+												href="https://takeuforward.org/time-complexity/time-and-space-complexity-strivers-a2z-dsa-course/">Time
+												Complexity [Learn Basics, and …</a></td>
+										<td title="CS link"></td>
+										<td title="YouTube Solution"><button><img
+													src="https://takeuforward.org/wp-content/uploads/2022/08/youtube-icon-42001-300x300.png.webp"
+													alt="" width="24" height="24" decoding="async" loading="lazy"
+													data-lazy-type="image"
+													data-src="https://takeuforward.org/wp-content/uploads/2022/08/youtube-icon-42001-300x300.png.webp"></button>
+										</td>
+										<td title="Leetcode link"></td>
+										<td title="Add Note"><button><img
+													src="https://takeuforward.org/wp-content/uploads/2023/05/empty-note.png"
+													alt="" width="24" height="24" decoding="async" loading="lazy"
+													data-lazy-type="image"
+													data-src="https://takeuforward.org/wp-content/uploads/2023/05/empty-note.png"></button>
+										</td>
+										<td title="Company Tags"></td>
+									</tr>
+								</tbody>
+							</table>
+						</details> -->
+                        
+
+
+				<div class="topics-container">
+					<div class="topic" id="stage1">
+						Stage 1
+						<div class="info hidden">
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel arcu ac lectus consectetur gravida. Duis vel ligula nec arcu fermentum varius.
+							<img src="https://via.placeholder.com/150" alt="Placeholder Image">
+						</div>
+					</div>
+					<div class="topic" id="stage2">
+						Stage 2
+						<div class="info hidden">
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel arcu ac lectus consectetur gravida. Duis vel ligula nec arcu fermentum varius.
+							<img src="https://via.placeholder.com/150" alt="Placeholder Image">
+						</div>
+					</div>
+					<div class="topic" id="stage3">
+						Stage 3
+						<div class="info hidden">
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel arcu ac lectus consectetur gravida. Duis vel ligula nec arcu fermentum varius.
+							<img src="https://via.placeholder.com/150" alt="Placeholder Image">
+						</div>
+					</div>
+				</div>

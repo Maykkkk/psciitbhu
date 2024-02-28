@@ -10,6 +10,13 @@
     border-radius: 12px;
 } */
 
+.nav-link{
+    /* > nav{ */
+        /* font-size: 1rem !important; */
+        font-weight: 500 !important;
+    /* } */
+}
+
 .sub-heading{
     text-align: justify;
 	text-justify: inter-word;

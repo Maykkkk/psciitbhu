@@ -1,1 +1,126 @@
-.container-
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap')
+
+.banner-heading{
+    font-size: 3rem !important;
+}
+
+.banner-subheading{
+    font-size: 1.3rem !important;
+    font-weight: 500;
+}
+
+/* body{
+    background-color: black !important;
+} */
+
+
+.resources-container{
+    width: 100%;
+    height: auto;
+    /* background-image: url('https://i.pinimg.com/originals/80/b8/9b/80b89b42f6aa33bf8288b2adb2fad69f.jpg'); */
+    background-image: url('../images/worldmapbgblurred.jpg');
+    /* background-size: cover; */
+    background-size: 100% auto;
+    background-repeat: repeat-y;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 6vh;
+}
+
+.section-1{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10vh;
+    > h1{
+        font-family: "Libre Baskerville", serif;
+        color: #ffffff;
+        opacity: 0.9;
+        text-align: center;
+    }
+}
+
+.subject-imgs{
+    width: 100%;
+    /* height: 1vh; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+
+    >img{
+        width: 40%;
+        /* height: 45vh; */
+    }
+}
+
+.lists{
+    color: #af9d9d;
+    font-family: "Montserrat", sans-serif;
+    font-size: 1.2rem;
+    letter-spacing: 2px;
+    line-height: 1.5;
+    margin: 3vh 0;
+}
+
+.topic {
+    cursor: pointer;
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+    color: #f1f1f1;
+    width: 100%;
+    padding-right: auto;
+    text-align: center;
+    margin: 2vh 0;
+    font-size: 1.4rem;
+    font-family: "Montserrat", sans-serif;
+}
+
+.topic-heading {
+    margin-bottom: 10px;
+    color: #f1f1f1;
+    width: 100%;
+    padding-right: auto;
+    margin: 2vh 0;
+    font-size: 1.4rem;
+    font-family: "Montserrat", sans-serif;
+}
+
+.info-container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.sub-topic{
+    color: #af9d9d;
+    font-family: "Montserrat", sans-serif;
+    text-align: justify;
+	text-justify: inter-word;
+    font-size: 1.2rem;
+    letter-spacing: 2px;
+    line-height: 1.5;
+    margin: 3vh 0;
+}
+
+.topic-image{
+    width: 60%;
+}
+
+.info {
+    display: none;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+.info img {
+    display: block;
+    margin-top: 10px;
+}
+
+.hidden {
+    display: none;
+}
